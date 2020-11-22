@@ -1,6 +1,6 @@
-# scrapyard README
+# scrap-yard README
 
-This is the README for your extension "scrapyard". After writing up a brief description, we recommend including the following sections.
+This is the README for your extension "scrap-yard". After writing up a brief description, we recommend including the following sections.
 
 ## Features
 
